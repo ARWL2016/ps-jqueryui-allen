@@ -41,13 +41,18 @@ https://app.pluralsight.com/player?course=jqueryui&author=scott-allen&name=jquer
 ####Sprite
 - Icons can be selected using a ui.css class. This refers to a single png file which is displayed as a sprite. 
 
-####Most Useful Widgets 
+####Widgets 
 - dialog - replaces the alert box
 - tabs - contains related content in a tabbed box, saving space 
+- Accordian - like tabs, but more annoying 
 - slider - allows user input on a scale 
 - progress bar - shows output on a scale; use for timers, progress on a form, etc. 
 - autocomplete - supply specific values to search boxes  
 - button and buttonset - force consistent styling on inputs, anchors, radios and checkboxes  
 
-####Less Useful 
-- Accordian - like tabs, but more annoying 
+####Interactions 
+- draggable - useful for interactive games
+- droppable - can be used to create a trash can function
+- sortable - combines draggable and droppable, good for ordering lists
+- resizable
+
