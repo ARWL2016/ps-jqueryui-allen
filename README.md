@@ -51,8 +51,15 @@ https://app.pluralsight.com/player?course=jqueryui&author=scott-allen&name=jquer
 - button and buttonset - force consistent styling on inputs, anchors, radios and checkboxes  
 
 ####Interactions 
-- draggable - useful for interactive games
-- droppable - can be used to create a trash can function
-- sortable - combines draggable and droppable, good for ordering lists
-- resizable
+- draggable - useful for interactive games  
+- droppable - can be used to create a trash can function  
+- sortable - combines draggable and droppable, good for ordering lists  
+- resizable  
+
+####Effects and Animations 
+- core JQuery has its own animations 
+- JQuery UI allows us to apply these to additional properties, such as color 
+- effects can be applied generally on elements as methods: `$('div').explode()` 
+- transition effects are now available in CSS3 
+- Nb. Subtle effects are essential for a polished modern website   
 
